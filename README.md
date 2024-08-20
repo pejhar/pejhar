@@ -10,14 +10,14 @@
 &nbsp;&nbsp;
 <a href="https://t.me/koregeloo"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
 
-<!-- ![Message](https://img.shields.io/badge/Amirali-Pishdadi-blue)
+ ![Message](https://img.shields.io/badge/Amirali-Pishdadi-blue)
 &nbsp;&nbsp;
 ![stars](https://img.shields.io/github/stars/amirali-pishdadi/amirali-pishdadi)
 &nbsp;&nbsp;
 ![forks](https://img.shields.io/github/forks/amirali-pishdadi/amirali-pishdadi)
 &nbsp;&nbsp;
 ![watchers](https://img.shields.io/github/watchers/amirali-pishdadi/amirali-pishdadi
-) -->
+)
 
 ## Technologies & Tools
 
