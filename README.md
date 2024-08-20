@@ -1,14 +1,14 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&pause=1000&color=FFFFFF&background=FFFFFF00&random=false&width=435&lines=Hi+%F0%9F%96%90%F0%9F%8F%BB+%2C+I'm+Amirali+Pishdadi+.;I'm+Back-End+developer+.;I'm+16+y.o+." alt="Typing SVG" /></a>
+  Hi... I'm Ahmad Shirzadi
 </h1>
 
 <!-- ![Github views](https://komarev.com/ghpvc/?username=amirali-pishdadi&color=green&style=for-the-badge) -->
 <br>
-<a href="https://www.linkedin.com/in/amirali-pishdadi-2529aa237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/ahmad-shirzadi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/ampishdadi"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/koregeloo"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 &nbsp;&nbsp;
-<a href="https://t.me/AmPishdadi"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
+<a href="https://t.me/koregeloo"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
 
 <!-- ![Message](https://img.shields.io/badge/Amirali-Pishdadi-blue)
 &nbsp;&nbsp;
@@ -43,7 +43,7 @@
 
 ## GitHub Stats:
 
-[![amirali-pishdadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirali-pishdadi&show_icons=true&hide=contribs,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+...
 &nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirali-pishdadi&layout=compact&theme=dark)
 
